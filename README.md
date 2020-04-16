@@ -26,7 +26,7 @@ Turn any GitHub repository into a simple but powerful agile work environment.
 
 ## 1. Create issues as backlog items
 
-To create a new backlog item, just create a new issue.
+To create to  a new backlog item, just create a new issue.
 
 Once a new issue has been created, assign it the right labels and/or assign it to a sprint (milestone).
 
